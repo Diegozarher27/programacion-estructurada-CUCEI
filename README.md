@@ -18,14 +18,8 @@ Operadores Lógicos: && (AND), || (OR), ! (NOT)
 
 Operadores de Incremento: ++, --
 
-2. Ciclo de Vida del Software
-Análisis y Definición
-
-Diseño del Algoritmo
-
-Codificación
-
-Pruebas y Mantenimiento
+2. strings 
+arrays de caracteres.
 
 3. Estructuras de Control
 Condicionales: if, else, switch
